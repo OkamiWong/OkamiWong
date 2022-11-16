@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - Nothing special...
+  - Nothing special ...
 - 👯 I'm a contributor of
   - https://github.com/webclipper/web-clipper
   - https://github.com/changkun/modern-cpp-tutorial
