@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-  - https://github.com/OkamiWong/beancount-pwa
+  - Nothing special...
 - 👯 I'm a contributor of
   - https://github.com/webclipper/web-clipper
   - https://github.com/changkun/modern-cpp-tutorial
