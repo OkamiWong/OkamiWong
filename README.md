@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on
   - Nothing special ...
 - 👯 I'm a contributor of
+  - https://github.com/microsoft/PowerToys
   - https://github.com/webclipper/web-clipper
   - https://github.com/changkun/modern-cpp-tutorial
 
