@@ -7,6 +7,11 @@
   - https://github.com/webclipper/web-clipper
   - https://github.com/changkun/modern-cpp-tutorial
 
+### Announcements
+- Do you feel `new` and `done` are not enough for your task item in Obsidian? Do you want to have more custom states?
+  - Check out [OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)!
+
+
 <!--
 **OkamiWong/OkamiWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
