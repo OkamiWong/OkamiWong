@@ -8,7 +8,7 @@
   - https://github.com/changkun/modern-cpp-tutorial
 
 ### Announcements
-- Do you feel `new` and `done` are not enough for your task item in Obsidian? Do you want to have more custom states?
+- Do you feel `new` and `done` are not enough for expressing your task items' status in Obsidian?
   - Check out [OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)!
 
 
