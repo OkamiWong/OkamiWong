@@ -2,14 +2,19 @@
 
 - 🔭 I’m currently working on
   - Nothing special ...
+- 👨‍💻 I'm the creator of
+  - [OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)
 - 👯 I'm a contributor of
-  - https://github.com/microsoft/PowerToys
-  - https://github.com/webclipper/web-clipper
-  - https://github.com/changkun/modern-cpp-tutorial
-
-### Announcements
-- Do you feel `new` and `done` are not enough for expressing your task items' status in Obsidian?
-  - Check out [OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)!
+  - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+  - [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
+  - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+- 🕹️ I'm a former game developer! Give my titles a try!
+  - [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/)
+    - Available in browser. If see errors, please try opening it in private mode or disabling Metamask.
+  - [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey)
+    - Available in browser.
+  - [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo)
+    - Available on Windows.
 
 
 <!--
