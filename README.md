@@ -10,7 +10,8 @@
   - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - 🕹️ I'm a former game developer! Give my titles a try!
   - [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/)
-    - Available in browser. If see errors, please try opening it in private mode or disabling Metamask.
+    - Available in browser.
+    - If any error occurs, please try opening it in private mode or disabling Metamask.
   - [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey)
     - Available in browser.
   - [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo)
