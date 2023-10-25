@@ -9,15 +9,11 @@
   - [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
   - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - 📌 Other projects
-  - 🎵 [Manual Transmission Aircraft](https://artists.landr.com/055120470547)
-    - Album.
-  - 🎮 [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/)
-    - Available in browser.
-    - If any error occurs, please try opening it in private mode or disabling Metamask.
-  - 🎮 [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey)
-    - Available in browser.
-  - 🎮 [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo)
-    - Available on Windows.
+  - 🎵 [Manual Transmission Aircraft - EP](https://artists.landr.com/055120470547)
+  - 🎮 [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/): Available in browser.
+    - Please disable Metamask before playing.
+  - 🎮 [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey): Available in browser.
+  - 🎮 [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo): Available on Windows.
 
 
 <!--
