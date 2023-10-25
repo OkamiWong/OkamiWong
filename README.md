@@ -8,13 +8,15 @@
   - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   - [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
   - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-- 🕹️ I'm a former game developer! Give my titles a try!
-  - [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/)
+- 📌 Other projects
+  - 🎵 [Manual Transmission Aircraft](https://artists.landr.com/055120470547)
+    - Album.
+  - 🎮 [Rhythm Dungeon](https://okamiwong.github.io/rhythm-dungeon-test/)
     - Available in browser.
     - If any error occurs, please try opening it in private mode or disabling Metamask.
-  - [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey)
+  - 🎮 [No Fuel Odyssey](https://freddiewang.itch.io/no-fuel-odyssey)
     - Available in browser.
-  - [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo)
+  - 🎮 [Pipi and Bobo](https://freddiewang.itch.io/pipi-and-bobo)
     - Available on Windows.
 
 
