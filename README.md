@@ -4,7 +4,7 @@
   - Nothing special ...
 - 👨‍💻 I'm the creator of
   - [OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)
-- 👯 I'm a contributor of
+- 🤝 I'm a contributor of
   - [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
   - [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
   - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
